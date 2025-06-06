@@ -14,7 +14,7 @@ const ToDoList = () => {
             setTasks([...tasks, newTask]);
             setNewTask('');
         } else {
-            alert('Please enter a task');
+            alert('Enter a task');
         }    
     }
 
