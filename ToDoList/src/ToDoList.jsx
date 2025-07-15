@@ -37,7 +37,7 @@ const ToDoList = () => {
 
   return (
     <div className='to-do-list'>
-        <h1>To-Do-List.</h1>
+        <h1>To-Do--List.</h1>
         <div className='input-container'>
             <input 
                 type="text" 
