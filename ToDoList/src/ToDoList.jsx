@@ -67,7 +67,7 @@ const ToDoList = () => {
                 </li>
             )}
         </ol>
-        <h2>Completed Tas</h2>
+        <h2>Completed Task</h2>
         <ul>
             {completedTasks.map((task, index) => (
                 <li key={index}>{task}</li>
